@@ -1,2 +1,3 @@
-自用
-Jejz.conf懒人配置
+#自用
+https://raw.githubusercontent.com/hushenan/QuantumultX/main/Jejz.conf   
+懒人配置
