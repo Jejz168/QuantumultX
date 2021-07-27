@@ -12,11 +12,7 @@
        "20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wanda/wanda_checkin.js, tag=万达电影_每日签到, img-url=truehttps://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wanda/wanda.png"
        "20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/youpin/youpin_checkin.js, tag=小米有品_每日签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/xiaomiyp.png"
        "10 0 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth_gain.js, tag=中青看点浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png"
-       "30 0 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth.js, tag=中青看点, img-url= https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png"
-	   
-	   
-	   
-	   
-	  
+       "30 0 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth.js, tag=中青看点, img-url= https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png" 
     ]
 }
+
