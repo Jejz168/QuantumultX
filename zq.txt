@@ -1,2 +1,0 @@
-﻿hostname = kd.youth.cn, kandian.wkandian.com
-https:\/\/kd\.youth\.cn\/WebApi\/NewTaskIos\/getTaskList url script-request-header https://raw.githubusercontent.com/hushenan/QuantumultX/main/youdata.js
