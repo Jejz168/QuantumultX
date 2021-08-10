@@ -2,6 +2,9 @@
   "name": "Jejz 自用 task ",
   "description": "8/10更新,TG频道：https://t.me/Qx_jejz",
     "task":[
+       "30/50 2-3 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth_gain.js, tag=中青看点浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png",
+       "10/40 0-4 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js, tag=中青阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png",
+       "15/30 0-4 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js, tag=中青签到, img-url= https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png",
        "20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_signin.min.js, tag=联通_签到与抽奖, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/10010.png",
        "8 5 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js, tag=哔哩哔哩, img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/bilibili.png",
        "8 5 * * 1 https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.silver2coin.js, tag=B站银瓜子转硬币, img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/bilibiliblue.png",
@@ -73,10 +76,7 @@
        "30 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_checkin.js, tag=贴吧_每日签到, img-url=truehttps://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba.png",
        "20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wanda/wanda_checkin.js, tag=万达电影_每日签到, img-url=truehttps://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wanda/wanda.png",
        "10 0 * * * https://raw.githubusercontent.com/photonmang/quantumultX/master/tuhu/tuhu.js, tag=途虎养车, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/tuhu.png",
-       "2 9 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_bean_change.js, tag=京东资产变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
-       "30/50 2-3 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth_gain.js, tag=中青看点浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png",
-       "10/40 0-4 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js, tag=中青阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png",
-       "15/30 0-4 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js, tag=中青签到, img-url= https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png"
+       "2 9 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_bean_change.js, tag=京东资产变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"
     ]
 }
 
