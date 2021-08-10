@@ -1,6 +1,6 @@
 {
   "name": "Jejz 自用 task ",
-  "description": "8/10更新,TG频道：https://t.me/Qx_jejz",
+  "description": "8/10更新  ",
     "task":[
        "10,20 2-3 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth_gain.js, tag=中青看点浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png",
        "10,30 0-2 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js, tag=中青阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png",
