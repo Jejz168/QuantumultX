@@ -25,7 +25,7 @@
       "20 13 * * 6 https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_get_share_code.js, tag=获取互助码, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
       "13 1,22 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_gold_creator.js, tag=金榜创造营, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
       "13 1,6,22 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_health.js, tag=东东健康社区, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
-      "5-45/20 * * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_health_collect.js, tag=东东健康社区收集能量, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"
+      "5-45/20 * * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_health_collect.js, tag=东东健康社区收集能量, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
       "10 0 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png",
       "10 0 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_jin_tie.js, tag=领金贴, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
       "15 0-23/2 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_joy.js, tag=京东宠汪汪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png",
@@ -61,7 +61,7 @@
        "11 1 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jdlottery.png",
        "21 9 * * * https://raw.githubusercontent.com/smiek2221/scripts/master/gua_MMdou.js, tag=MM领京豆",
        "5 * * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png",   
-       "8 * * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_cfd_loop.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png", 
+       "8 * * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_cfd_loop.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png",
        "20 1,8 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jx_sign.js, tag=京喜签到, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png",
        "00 10 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/eleme_mission.js, tag=饿了么_领取会员任务, img-url=truehttps://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/eleme/elem.png",
        "5 6-18/6 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_fruit.js, tag=东东农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png",
@@ -75,7 +75,7 @@
        "2 9 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_bean_change.js, tag=京东资产变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
        "30/50 2-3 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth_gain.js, tag=中青看点浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png",
        "10/40 0-4 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js, tag=中青阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png",
-       "15/30 0-4 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js, tag=中青签到, img-url= https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png", 
+       "15/30 0-4 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js, tag=中青签到, img-url= https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png"
     ]
 }
 
