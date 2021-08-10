@@ -41,7 +41,7 @@
       "10-20/5 12 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_live.js, tag=京东直播, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
       "0,30 0-23/1 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_live_redrain.js, tag=超级直播间红包雨, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
       "4 10 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_market_lottery.js, tag=幸运大转盘, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
-      "10 7 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_ms.js, tag=京东秒秒币, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_ms.jpg",
+      "10 7 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_ms.js, tag=京东秒秒币, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
       "10 0,20 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_necklace.js, tag=点点券, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
       "35 1,23 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_nzmh.js, tag=女装盲盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
       "12 0-23/6 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_pigPet.js, tag=京东金融养猪猪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyz.png",
@@ -75,7 +75,7 @@
        "2 9 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_bean_change.js, tag=京东资产变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
        "30/50 2-3 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth_gain.js, tag=中青看点浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png",
        "10/40 0-4 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js, tag=中青阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png",
-       "15/30 0-4 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js, tag=中青签到, img-url= https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png" 
+       "15/30 0-4 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js, tag=中青签到, img-url= https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png", 
     ]
 }
 
