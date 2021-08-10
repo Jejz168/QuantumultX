@@ -22,7 +22,7 @@
       "13 1,22,23 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_daily_lottery.js, tag=每日抽奖, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
       "30 23 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_delCoupon.js, tag=删除优惠券, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
       "10 * * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_dreamFactory.js, tag=京喜工厂, img-url=https://github.com/58xinian/icon/raw/master/jdgc.png",
-      "20 13 * * 6 https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_get_share_code.js, tag=获取互助码, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",13 1,22 * * * jd_gold_creator.js, tag=金榜创造营, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png
+      "20 13 * * 6 https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_get_share_code.js, tag=获取互助码, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
       "13 1,22 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_gold_creator.js, tag=金榜创造营, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
       "13 1,6,22 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_health.js, tag=东东健康社区, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
       "5-45/20 * * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_health_collect.js, tag=东东健康社区收集能量, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"
