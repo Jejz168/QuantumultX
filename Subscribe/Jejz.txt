@@ -1,0 +1,23 @@
+proxies:
+  - {name: 台湾01丨解锁丨微软隧道, server: wr.naigai.one, port: 33897, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: tw01.bot666.xyz, skip-cert-verify: false}
+  - {name: 印度01丨解锁丨微软隧道, server: wr.naigai.one, port: 30015, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: in01.bot666.xyz, skip-cert-verify: false}
+  - {name: 香港01丨主力丨微软隧道, server: wr.naigai.one, port: 33893, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: hk01.naigai.one, skip-cert-verify: false}
+  - {name: 香港02丨主力丨华南隧道, server: gy.naigai.one, port: 30001, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: hk01.naigai.one, skip-cert-verify: false}
+  - {name: 香港03丨主力丨三网优化, server: hk01.naigai.one, port: 443, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: hk01.naigai.one, skip-cert-verify: false}
+  - {name: 香港04丨解锁丨华南隧道, server: gy.naigai.one, port: 30008, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: hk02.naigai.one, skip-cert-verify: false}
+  - {name: 香港05丨解锁丨华南隧道, server: gy.naigai.one, port: 30013, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: hk06.naigai.one, skip-cert-verify: false}
+  - {name: 香港06丨解锁丨三网优化, server: hk06.bot666.xyz, port: 443, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: hk06.bot666.xyz, skip-cert-verify: false}
+  - {name: 美国01丨解锁丨微软隧道, server: wr.naigai.one, port: 33894, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: us01.naigai.one, skip-cert-verify: false}
+  - {name: 美国02丨解锁丨华南隧道, server: gy.naigai.one, port: 30002, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: us01.naigai.one, skip-cert-verify: false}
+  - {name: 美国03丨解锁丨直连线路, server: us01.naigai.one, port: 443, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: us01.naigai.one, skip-cert-verify: false}
+  - {name: 日本01丨解锁丨三网优化, server: jp07.naigai.one, port: 443, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: jp07.naigai.one, skip-cert-verify: false}
+  - {name: 日本02丨解锁丨微软隧道, server: wr.naigai.one, port: 33896, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: jp03.naigai.one, skip-cert-verify: false}
+  - {name: 韩国01丨解锁丨微软隧道, server: wr.naigai.one, port: 33892, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: kr03.naigai.one, skip-cert-verify: false}
+  - {name: 韩国02丨解锁丨华南隧道, server: gy.naigai.one, port: 30004, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: kr03.naigai.one, skip-cert-verify: false}
+  - {name: 韩国03丨解锁丨直连线路, server: kr03.naigai.one, port: 443, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: kr03.naigai.one, skip-cert-verify: false}
+  - {name: 新加坡01丨解锁丨微软隧道, server: wr.naigai.one, port: 33891, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: sg01.naigai.one, skip-cert-verify: false}
+  - {name: 新加坡02丨解锁丨华南隧道, server: gy.naigai.one, port: 30007, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: sg01.naigai.one, skip-cert-verify: false}
+  - {name: 新加坡03丨解锁丨直连线路, server: sg01.naigai.one, port: 443, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: sg01.naigai.one, skip-cert-verify: false}
+  - {name: 新加坡04丨解锁丨华南隧道, server: gy.naigai.one, port: 30011, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: sg04.naigai.one, skip-cert-verify: false}
+  - {name: 新加坡05丨解锁丨华南隧道, server: gy.naigai.one, port: 30012, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: sg05.naigai.one, skip-cert-verify: false}
+  - {name: 俄罗斯01丨解锁丨直连线路, server: ru01.naigai.one, port: 443, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: ru01.naigai.one, skip-cert-verify: false}
