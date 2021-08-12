@@ -1,5 +1,9 @@
 # Jejz自用  TG频道：https://t.me/Qx_jejz
 proxies:
   - {name: 🎶 网易音乐 1, server: 106.52.127.72, port: 19951, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎶 网易音乐💻 2, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
-  - {name: 🎶 网易音乐📱 3, server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
+  - {name: 🎶 网易音乐 2, server: block4music.poetyin.me, port: 39000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎶 网易音乐 3, server: block4music.poetyin.me, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_x80j}
+  - {name: 🎶 网易音乐 4, server: proxy.plusmedia.site, port: 58080, type: ss, cipher: rc4-md5, password: ieG9l1nte5eo7IBZas84jLi}
+  - {name: 🎶 网易音乐 5, server: proxy.plusmedia.site, port: 58081, type: ss, cipher: rc4-md5, password: ieG9l1nte5eo7IBZas84jLi}
+  - {name: 🎶 网易音乐💻 6, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
+  - {name: 🎶 网易音乐📱 7, server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
