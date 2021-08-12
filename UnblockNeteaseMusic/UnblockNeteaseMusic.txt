@@ -5,5 +5,6 @@ proxies:
   - {name: 🎶 网易音乐 3, server: block4music.poetyin.me, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_x80j}
   - {name: 🎶 网易音乐 4, server: proxy.plusmedia.site, port: 58080, type: ss, cipher: rc4-md5, password: ieG9l1nte5eo7IBZas84jLi}
   - {name: 🎶 网易音乐 5, server: 146.56.117.163, port: 23456, type: vmess, cipher: chacha20-ietf-poly1305, password: 065813ec-84cb-436c-ae6a-e3ec698dbc79}
+  - {name: 香港中继1, server: 146.56.117.163, port: 23456, type: vmess, uuid: 065813ec-84cb-436c-ae6a-e3ec698dbc79, alterId: 0, cipher: chacha20-ietf-poly1305, tls: false, skip-cert-verify: false}
   - {name: 🎶 网易音乐💻 6, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
   - {name: 🎶 网易音乐📱 7, server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
