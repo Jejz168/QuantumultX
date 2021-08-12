@@ -1,6 +1,7 @@
 # Jejz自用  TG频道：https://t.me/Qx_jejz
 proxies:
-  - {name: 🎧 网易音乐 1, server: MUSIC1.ZIYPAI.COM, port: 11637, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 网易音乐 2, server: 106.75.241.103, port: 4000, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 网易音乐 3, server: MUSIC.DESPERADOJ.COM, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
-  - {name: 🎧 网易音乐 4, server: MUSIC.DESPERADOJ.COM, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
+  - {name: 🎵 网易音乐 1, server: 106.52.127.72, port: 19951, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎵 网易音乐 2, server: 106.75.241.103, port: 4000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎵 网易音乐 3, server: 120.55.164.155, port: 18888, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎵 网易音乐 3, server: 127.0.0.1, port: 8080, type: ss, cipher: aes-128-gcm, password: This_proxy_is_for_free}
+  - {name: 🎵 网易音乐 4, server: MUSIC.DESPERADOJ.COM, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
