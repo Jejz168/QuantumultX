@@ -69,6 +69,7 @@
       "21 3,8 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_speed_sign.js, tag=京东极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
       "20 0,22 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_speed_redpocke.js, tag=京东极速版红包, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
       "11 * * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_superMarket.js, tag=东东超市, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, enabled=true",
+      "45 1,12 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_sendBeans.js, tag=送豆得豆, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
       "10 0,7,23 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_syj.js, tag=赚京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true",
       "55 23 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
       "5 0,23 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_club_lottery.js, tag=摇京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyjd.png, enabled=true",
