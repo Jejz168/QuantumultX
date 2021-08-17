@@ -10,7 +10,7 @@
        "0 8 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/dianshijia.js, tag=电视家, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/dianshijia.png, enabled=true",
        "*/10 */3 * * * https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/jukan.js, tag=聚看点, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jukan.png, enabled=true",
        "*/30 * * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/baidu_speed.js, tag=百度极速版 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/baidu.png,  enabled=true",
-       "15 18 * * * https://raw.githubusercontent.com/hushenan/QuantumultX/main/Cookie/xmbs.js, tag=小米运动, img-url=https://6678888.xyz/quantumultX/xmbs.png, enabled=true",
+       "15 18 * * * https://raw.githubusercontent.com/hushenan/QuantumultX/main/Cookie/xmbs.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=true",
       "0 9 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/weibo.js, tag=微博, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/weibo.png, enabled=true",
       "5 9 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/txnews.js, tag=腾讯新闻, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/txnews.png, enabled=true",
       "20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_signin.min.js, tag=联通_签到与抽奖, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/10010.png, enabled=true",
