@@ -2,8 +2,7 @@
   "name": "Jejz 自用 task ",
   "description": "8/11更新 , TG频道:https://t.me/Qx_jejz ",
     "task":[
-      "0 0-18/6 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_carnivalcity.js, tag=京东手机狂欢城, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",  
-      "10 0,8 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_carnivalcity_help.js, tag=京东手机狂欢城助力, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+      "0 8~23/2 * * * https://raw.githubusercontent.com/xl2101200/-/main/jztt.js, tag=九章头条, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/tom.png, enabled=true",
       "10,20 2-3 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth_gain.js, tag=中青看看赚&浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
        "10,30 0-2 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
        "15,20,30 0-5 * * * https://raw.githubusercontent.com/hushenan/QuantumultX/main/Cookie/youth.js, tag=中青看点, img-url= https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
