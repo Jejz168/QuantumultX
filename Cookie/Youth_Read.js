@@ -98,14 +98,14 @@ if (!$.isNode()) {
 
 function bodyInfo() {
     return new Promise((resolve, reject) => {
-        $.get(batHost('article/info/get.json?' + articlebody), async(error, resp, data) => {
+        $.get(batHost('article/info.json?' + articlebody), async(error, resp, data) => {
             let bodyobj = JSON.parse(data);
             //$.log(JSON.stringify(bodyobj,null,2))
                 $.begin = $.begin + 1;
                 let res = $.begin % ReadArr.length;
                 $.setdata(res + "", 'zqbody_index');
             try {
-                if (bodyobj.error_code == "200007"&&!$.isNode()) {
+                if (bodyobj.error_code == "200001"&&!$.isNode()) {
                 await removebody();
                 delbody += 1;
                 $.log(bodyobj.message+"已自动删除");
@@ -205,7 +205,7 @@ function batHost(api, body) {
     return {
         url: 'https://kandian.wkandian.com/v5/' + api,
         headers: {
-            'User-Agent': 'KDApp/2.1.1 (iPhone; iOS 14.6; Scale/3.00)',
+            'User-Agent': 'KDApp/2.4.1 (iPhone; iOS 14.7.1; Scale/3.00)',
             'Host': 'kandian.wkandian.com',
             'Content-Type': 'application/x-www-form-urlencoded'
         },
@@ -215,7 +215,7 @@ function batHost(api, body) {
 
 function readTime() {
     return new Promise((resolve, reject) => {
-        $.post(batHost('user/stay.json', timebodyVal), (error, resp, data) => {
+        $.post(batHost('user/app_stay.json', timebodyVal), (error, resp, data) => {
             let timeres = JSON.parse(data)
             if (timeres.error_code == 0) {
                 readtimes = timeres.time / 60
