@@ -2,7 +2,7 @@
   "name": "Jejz 自用 task ",
   "description": "8/11更新 , TG频道:https://t.me/Qx_jejz ",
     "task":[
-      "*/8 */1 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/WLAPP/wlapp.js, tag=文旅看点, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/WLAPP/IMG_1068.JPG, enabled=true",
+      "*/8 */1 * * * https://raw.githubusercontent.com/xl2101200/-/main/gqsl.js , tag=广汽三菱, enabled=true",
       "0 */1 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/ELONGCASH/elongcash.js, tag=同程小猪🐷, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/ELONGCASH/140.png, enabled=true",
       "*/20 0-23 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js, tag=葱花视频, enabled=true",
       "*/30 */1 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkdvideo.js, tag=多看点, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDAPP2.0/140.png, enabled=true",
