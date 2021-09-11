@@ -2,8 +2,6 @@
   "name": "Jejz 自用 task ",
   "description": "8/11更新 , TG频道:https://t.me/Qx_jejz ",
     "task":[
-      "0-59 9-14 * * * https://raw.githubusercontent.com/age174/-/main/wdwhd.js, tag=我的网红店, img-url=https://ae01.alicdn.com/kf/Uc5a0618d6a404079af9216e1012e35efs.jpg, enabled=true",
-      "10 8 * * * https://raw.githubusercontent.com/age174/-/main/zqwn.js, tag=最强蜗牛, img-url=https://ae01.alicdn.com/kf/U1748aeaa81a54cdf8797ed3fc54d76ef3.jpg, enabled=true",
       "0,20,35 5-23 * * * http://47.101.146.160/scripts/qlfhxz.js, tag=富豪小镇, enabled=true",
       "0,20,35,50 5-23 * * * http://47.101.146.160/scripts/yydxny.js, tag=爷爷的小农院, enabled=true",
       "*/8 */1 * * * https://raw.githubusercontent.com/xl2101200/-/main/gqsl.js , tag=广汽三菱, enabled=true",
