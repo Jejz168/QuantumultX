@@ -2,7 +2,6 @@
   "name": "Jejz 自用 task ",
   "description": "8/11更新 , TG频道:https://t.me/Qx_jejz ",
     "task":[
-      "0 6 * * * https://raw.githubusercontent.com/xl2101200/-/main/xffd.js, tag=幸福饭店, enabled=true",
       "0,20,35 5-23 * * * http://47.101.146.160/scripts/qlfhxz.js, tag=富豪小镇, enabled=true",
       "0,20,35,50 5-23 * * * http://47.101.146.160/scripts/yydxny.js, tag=爷爷的小农院, enabled=true",
       "*/8 */1 * * * https://raw.githubusercontent.com/xl2101200/-/main/gqsl.js , tag=广汽三菱, enabled=true",
