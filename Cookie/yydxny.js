@@ -87,8 +87,9 @@ if ($.isNode() && process.env.yyxnyhd) {
       await stallShopping()
       await visitor()
     }
-  }
-}()
+ }
+     }
+})()
   .catch ((e) => $.logErr(e))
   .finally(() => $.done())
 
