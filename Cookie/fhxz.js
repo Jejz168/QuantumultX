@@ -52,17 +52,14 @@ if ($.isNode() && process.env.fhxzurl) {
   if (typeof $request !== "undefined") {
 await fhxzck() 
    } else {fhxzurlArr.push($.getdata('fhxzurl')) 
- fhxzhdArr.push($.getdata('fhxzhd')) 
  let fhxzcount = ($.getval('fhxzcount') || '1'); 
  for (let i = 2; i <= fhxzcount; i++) { 
  fhxzurlArr.push($.getdata(`fhxzurl${i}`)) 
- fhxzhdArr.push($.getdata(`fhxzhd${i}`)) 
  } 
       console.log(`-------------共${fhxzurlArr.length}个账号-------------\n`)
       for (let i = 0; i < fhxzurlArr.length; i++) {
         if (fhxzurlArr[i]) {
           fhxzurl = fhxzurlArr[i];
-          fhxzhd = fhxzhdArr[i];
           $.index = i + 1;
           console.log(`\n开始【富豪小镇 ${$.index}】`)
           await dailyQuestd();
