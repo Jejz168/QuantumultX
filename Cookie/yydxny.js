@@ -88,7 +88,7 @@ if ($.isNode() && process.env.yyxnyhd) {
       await visitor()
     }
   }
-})()
+}()
   .catch ((e) => $.logErr(e))
   .finally(() => $.done())
 
