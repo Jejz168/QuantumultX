@@ -62,6 +62,7 @@ await fhxzck()
       for (let i = 0; i < fhxzurlArr.length; i++) {
         if (fhxzurlArr[i]) {
           fhxzurl = fhxzurlArr[i];
+          fhxzhd = fhxzhdArr[i];
           $.index = i + 1;
           console.log(`\n开始【富豪小镇 ${$.index}】`)
           await dailyQuestd();
