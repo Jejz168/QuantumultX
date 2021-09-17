@@ -86,9 +86,10 @@ if ($.isNode() && process.env.yyxnyhd) {
       await exchangeOrder()
       await stallShopping()
       await visitor()
-    }
+  }
  }
-     }
+ }
+ }
 })()
   .catch ((e) => $.logErr(e))
   .finally(() => $.done())
