@@ -4,13 +4,13 @@
 
 [rewrite_local]
 #爷爷的小农院
-https://bp-api.coohua.com/bubuduo-yydxny/sync/syncData url script-request-header https://raw.githubusercontent.com/crygirl02/Scripts/main/REG/fhxz.js
+https://bp-api.coohua.com/bubuduo-yydxny/sync/syncData url script-request-header https://raw.githubusercontent.com/hushenan/QuantumultX/main/Cookie/yydxny.js
 [MITM]
 hostname = bp-api.coohua.com
 #loon
-https://bp-api.coohua.com/bubuduo-yydxny/sync/syncData url script-request-header https://raw.githubusercontent.com/crygirl02/Scripts/main/REG/fhxz.js, requires-header=true, timeout=10, tag=柠檬爷爷的小农院
+https://bp-api.coohua.com/bubuduo-yydxny/sync/syncData url script-request-header https://raw.githubusercontent.com/hushenan/QuantumultX/main/Cookie/yydxny.js, requires-header=true, timeout=10, tag=柠檬爷爷的小农院
 #surge
-爷爷的小农院 = type=https://bp-api.coohua.com/bubuduo-yydxny/sync/syncData,requires-header=1,max-size=0,script-path=https://raw.githubusercontent.com/crygirl02/Scripts/main/REG/fhxz.js,script-update-interval=0
+爷爷的小农院 = type=https://bp-api.coohua.com/bubuduo-yydxny/sync/syncData,requires-header=1,max-size=0,script-path=https://raw.githubusercontent.com/hushenan/QuantumultX/main/Cookie/yydxny.js,script-update-interval=0
 
 -------------青龙或者其他容器运行-------------
 -------------青龙拉取-------------
