@@ -50,8 +50,14 @@ if ($.isNode() && process.env.fhxzurl) {
 
 !(async() => {
   if (typeof $request !== "undefined") {
-    fhxzck()
-  } else {
+await fhxzck() 
+   } else {fhxzurlArr.push($.getdata('fhxzurl')) 
+ fhxzhdArr.push($.getdata('fhxzhd')) 
+ let fhxzcount = ($.getval('fhxzcount') || '1'); 
+ for (let i = 2; i <= fhxzcount; i++) { 
+ fhxzurlArr.push($.getdata(`fhxzurl${i}`)) 
+ fhxzhdArr.push($.getdata(`fhxzhd${i}`)) 
+ } 
       console.log(`-------------共${fhxzurlArr.length}个账号-------------\n`)
       for (let i = 0; i < fhxzurlArr.length; i++) {
         if (fhxzurlArr[i]) {
