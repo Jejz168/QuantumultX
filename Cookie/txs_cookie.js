@@ -21,7 +21,7 @@ const signkey = $request.headers['Cookie']
 }
 
 //签到
-if($request&&$request.url.indexOf("shop.fcgi")>=0) {
+if($request&&$request.url.indexOf("information.fcgi")>=0) {
    const signheader = $request.url.split('openid=')[1];
      if (signheader) $.setdata(signheader,'signheader')
      $.log(`[${jsname}] 获取signheader请求🎉: 成功,signheader: ${signheader}`)
