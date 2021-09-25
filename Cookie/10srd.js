@@ -57,6 +57,8 @@ message = ""
             $.message = ""
             cookie = cookiesArr[k];
             for (let i = 0; i < 33 && $.canRead; i++) {
+             let sjTimes = randomNum(10000,15000)
+                 randomtime = sjTimes/1000
                 console.log(`账号【${k+1}】第${i+1}次阅读中`)
                // await $.wait(1000);
                 //   console.log(i)
@@ -67,12 +69,14 @@ message = ""
                         i = 9999
                     } else {
                         await read(url)
-                        await $.wait(1000);
+                        console.log(`随机延迟${randomtime}秒`)
+                        await $.wait(sjTimes);
                     }
                 }
                 if ($.message.length != 0) {
                     message += `账号【${k+1}】：${$.message} \n\n `
-                    await $.wait(1000);
+                    console.log(`随机延迟${randomtime}秒`)
+                    await $.wait(sjTimes);
                 }
             }
         }   
@@ -156,7 +160,21 @@ function read(url1) {
         });
     });
 }
+//延时函数
 
+ function randomNum(minNum,maxNum){ 
+     switch(arguments.length){ 
+     case 1: 
+      return parseInt(Math.random()*minNum+1); 
+     break; 
+     case 2: 
+      return parseInt(Math.random()*(maxNum-minNum+1)+minNum); 
+     break; 
+     default: 
+      return 0; 
+     break; 
+     } 
+    }
 
 function jsonParse(str) {
     if (typeof str == "string") {
