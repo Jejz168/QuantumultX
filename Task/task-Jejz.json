@@ -2,6 +2,7 @@
   "name": "Jejz 自用 task ",
   "description": "8/11更新 , TG频道:https://t.me/Qx_jejz ",
     "task":[
+      "5,35 8-23 * * * https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/jrtt.js, tag=今日头条极速版, enabled=true";
       "*/5 */2 * * * https://raw.githubusercontent.com/hushenan/QuantumultX/main/Cookie/10srd.js, tag=10s阅读, enabled=true",
       "*/10 * * * * https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jsz.js, tag=金银手指, enabled=true",
       "*/5 * * * * https://raw.githubusercontent.com/laoguilin/JS-/main/chyu/chyu.js, tag=成语极速版, enabled=true",
