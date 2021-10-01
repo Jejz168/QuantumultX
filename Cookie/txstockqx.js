@@ -60,8 +60,7 @@ const logs = 0; //0为关闭日志，1为开启,默认为0
 const notifyInterval = 1; //0为关闭通知，1为所有通知,默认为0
 
 let rndtime = Math.round(new Date().getTime()) //毫秒
-let signday = new Date().toISOString().slice(0,new Date().toISOString().indexOf("T")).replace(/-/g,"")
-
+let signday = new Date().toLocaleString('zu-ZA').slice(0,10).replace(/-/g,'');
 let tz = '';
 let cash = $.getval('cash') || 0; //0为不自动提现,1为自动提现1元,5为自动提现1元
 
