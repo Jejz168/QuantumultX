@@ -15,7 +15,7 @@
       "*/20 0-23 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js, tag=葱花视频, enabled=true",
       "10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
       "10 * * * * https://raw.githubusercontent.com/age174/-/main/dkdsp.js, tag=多看点视频, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
-      "0 8 * * * https://raw.githubusercontent.com/gitehabu/YI-SHI-XIAO/main/100000/js/txstockqx.js, tag=腾讯自选股, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png, enabled=true",
+      "0 8 * * * https://raw.githubusercontent.com/hushenan/QuantumultX/main/Cookie/txstockqx.js, tag=腾讯自选股, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png, enabled=true",
       "0 */1 * * * https://raw.githubusercontent.com/xl2101200/-/main/jztt.js, tag=九章头条, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/tom.png, enabled=true",
       "10,20 2-3 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth_gain.js, tag=中青看看赚&浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
        "10,30 0-2 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
