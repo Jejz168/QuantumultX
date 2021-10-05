@@ -11,7 +11,7 @@
 [rewrite_local]
 http://qapi.wjhjdgc.com/lemon url script-request-body https://raw.githubusercontent.com/xl2101200/-/main/qhs.js
 [mitm]
-api1.ktvcggl.com
+qapi.wjhjdgc.com
 */
 
 
