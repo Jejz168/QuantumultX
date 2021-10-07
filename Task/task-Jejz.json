@@ -2,13 +2,9 @@
   "name": "Jejz 自用 task ",
   "description": "8/11更新 , TG频道:https://t.me/Qx_jejz ",
     "task":[
-      "1 8,12 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/mcdd/mcdd.cookie.js, tag=叮咚签到, enabled=true",
-      "1 8,12,17 * * * https://raw.githubusercontent.com/iepngs/Script/master/dingdong/index.js, tag=叮咚农场, enabled=true",
-      "1 8,12,17 * * * https://raw.githubusercontent.com/iepngs/Script/master/dingdong/ddgy.js, tag=叮咚果园, enabled=true",
       "10 6-23 * * * https://raw.githubusercontent.com/YaphetS0903/JStest/main/qjp.js, tag=趣键盘极速版, enabled=true",
       "5,35 8-23 * * * https://raw.githubusercontent.com/FearNoManButGod/Script/main/jrtt/jrtt.js, tag=今日头条极速版, enabled=true",
       "*/5 */2 * * * https://raw.githubusercontent.com/hushenan/QuantumultX/main/Cookie/10srd.js, tag=10s阅读, enabled=true",
-      "*/10 * * * * https://raw.githubusercontent.com/hushenan/QuantumultX/main/Cookie/jsz.js, tag=金银手指, enabled=true",
       "*/5 * * * * https://raw.githubusercontent.com/laoguilin/JS-/main/chyu/chyu.js, tag=成语极速版, enabled=true",
       "6 0-23 * * * https://raw.githubusercontent.com/xl2101200/-/main/yyd.js, tag=云阅读, enabled=true",
       "0 6 * * * https://raw.githubusercontent.com/xl2101200/-/main/qhs.js, tag=轻换算, enabled=true",
