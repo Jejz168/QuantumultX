@@ -205,7 +205,7 @@ async function task(){
              await $.wait(21000)
             await completeTask(js)
 	    }else{
-	    console.log('获取任务失败，请1小时后再尝试')
+	    console.log('\n获取任务失败，请1小时后再尝试')
 	    }
 
         }
