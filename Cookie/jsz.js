@@ -36,7 +36,7 @@ var timestamp = (new Date()).valueOf();
             jszhdArr.push($.getdata(`jszhd${i}`))
             }
     console.log(`------------- 共${jszhdArr.length}个账号-------------\n`)
-      for (let i = 0; i < jszhdArr.length; i++) {
+      for (let i = 2; i < jszhdArr.length; i++) {
         if (jszhdArr[i]) {
           jszhd = jszhdArr[i];
           $.index = i + 1;
@@ -155,7 +155,7 @@ async function taskSeq(type){
         const result = JSON.parse(data)
         if(logs)$.log(data)
           if(result.code == 0){
-        console.log(`任务领取金币成功`)
+        console.log(`\n任务领取金币成功`)
 } else {
        console.log(`\n今日任务奖励已领取明日再来`)
 }
@@ -191,7 +191,7 @@ async function task(){
         }
 	    if(completeTodayCount >= 70){
             await taskSeq(2)
-            $.log("\n今日阅读已满 请明天再来")
+            $.log("\n今日阅读${completeTodayCount}篇已满 请明天再来")
            //$.log("\n=====开始提现=====")
         }else {
 	/*	const CryptoJS = require('./crypto-js')
