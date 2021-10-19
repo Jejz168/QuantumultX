@@ -3,35 +3,20 @@
 金银手指
 原作者：柠檬
 
-适配v2p和青龙，修复v2p运行偶现报错问题，需要依赖 crypto-js.js ，请将该文件放在脚本同级目录即可
-crypto-js 文件地址：https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/crypto-js.js
-圈x请跑原作者脚本
 
-青龙抓包以下链接的header
-http://apponlie.sahaj.cn/user/myInfo
-变量：jszhd
-
-
-v2p配置重写如下：
+qx配置重写如下：
 ***************************************************************************************************************
 [rewrite]
-http://apponlie.sahaj.cn/user/myInfo 重写目标 https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jsz.js
+http://apponlie.sahaj.cn/user/myInfo 重写目标 https://raw.githubusercontent.com//hushenan/QuantumultX/edit/main/Cookie/jsz.js
 [task]
-建议定时每十分钟跑一次 https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jsz.js
+建议定时每十分钟跑一次 https://raw.githubusercontent.com//hushenan/QuantumultX/edit/main/Cookie/jsz.js
 ***************************************************************************************************************
-活动地址：频道图片
-食用方法：
-1.先填写好上方的重写或打开抓包软件
-2.微信扫图片二维码，会自动跳出文章，等待10s左右，点击返回，点击停止阅读即可
-
-收益：只看文章的话，跑满每日12000金币（1.2元），被限制阅读另说
-每满4000金币（4毛）微信自动提现
-
 */
-// */10 * * * * https://raw.githubusercontent.com/shaolin-kongfu/js_scripts/main/jsz.js
 
 
-// @grant    require
+
+
+
 const $ = new Env('金手指阅读');
 let status;
 status = (status = ($.getval("jszstatus") || "1") ) > 1 ? `${status}` : ""; // 账号扩展字符
@@ -47,7 +32,7 @@ var timestamp = (new Date()).valueOf();
       if(!$.isNode()){
           jszhdArr.push($.getdata('jszhd'))
           let jszcount = ($.getval('jszcount') || '1');
-          for (let i = 0; i <= jszcount; i++) {
+          for (let i = 2; i <= jszcount; i++) {
             jszhdArr.push($.getdata(`jszhd${i}`))
             }
     console.log(`------------- 共${jszhdArr.length}个账号-------------\n`)
@@ -56,10 +41,10 @@ var timestamp = (new Date()).valueOf();
           jszhd = jszhdArr[i];
           $.index = i + 1;
           console.log(`\n开始【金手指阅读${$.index}】`)
-            $.log("提现金额如果达标 将会自动提现")
+       //   $.log("提现金额如果达标 将会自动提现")
             await myInfo()
             await task()
-            await $.wait(12000)
+            await $.wait(15000)
   }
 }
       }else  {
@@ -80,10 +65,10 @@ var timestamp = (new Date()).valueOf();
                 jszhd = jszhdArr[k]
                 $.index = k + 1;
           console.log(`\n开始【金手指阅读${$.index}】`)
-            $.log("提现金额如果达标 将会自动提现")
+     //     $.log("提现金额如果达标 将会自动提现")
             await myInfo()
             await task()
-            await $.wait(15000)
+            await $.wait(16000)
             }
       }
   }
@@ -207,18 +192,18 @@ async function task(){
 	    if(completeTodayCount >= 50){
             await taskSeq(2)
         }
-        if(completeTodayCount >= 70){
-            $.log("今日阅读70篇已满 请明天再来")
+        if(completeTodayCount >= 60){
+            $.log("\n今日阅读60篇已满 请明天再来")
            //$.log("\n=====开始提现=====")
         return
         }else {
-		const CryptoJS = require('./crypto-js')
+	/*	const CryptoJS = require('./crypto-js')
           var key = CryptoJS.enc.Utf8.parse("5kosc7jy2w0fxx3s")
             var plaintText = `{"taskId":${taskId}}`
             var js = CryptoJS.AES.encrypt(plaintText, key, {
             mode: CryptoJS.mode.ECB,
             padding: CryptoJS.pad.Pkcs7
-    })
+    })*/
 	    if (taskId !== null){
              await $.wait(21000)
             await completeTask(js)
