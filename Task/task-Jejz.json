@@ -1,6 +1,6 @@
 {
   "name": "Jejz 自用 task ",
-  "description": "8/11更新 , TG频道:https://t.me/Qx_jejz ",
+  "description": " TG频道:https://t.me/Qx_jejz ",
     "task":[
       "10 7-12 * * * https://raw.githubusercontent.com/hushenan/QuantumultX/main/Cookie/jsz.js, tag=金银手指, enabled=true",
       "0 6-23 * * * https://raw.githubusercontent.com/YaphetS0903/JStest/main/ysy.js, tag=萤石云, enabled=true",
