@@ -281,7 +281,7 @@ async function aqccxrw(api,timeout = 0) {
 //做任务模块
 async function zxrw(){
   if(taskList.length > 0){
-    for(j=0; j<taskList.length; j++){
+    for(j=0; j<6; j++){
       dqrw = taskList[j]
       if(dqrw.title == "CX10002"){
         console.log("签到");
