@@ -3,7 +3,7 @@
   "description": " TG频道:https://t.me/Qx_jejz ",
     "task":[
       "1 8,16 * * * https://gitee.com/tom210120/tom/raw/master/QKHQ/qkhq.js, tag=趣看行情, enabled=true",
-      "8 9,15 * * * https://raw.githubusercontent.com/hushenan/QuantumultX/main/Cookie/ifaqc.js, tag=爱企查, enabled=true",
+      "8 9,15 * * * https://raw.githubusercontent.com/sonce/woolscripts/main/aiqicha/ifaqc.js, tag=爱企查, enabled=true",
       "12 9 * * * https://raw.githubusercontent.com/byxiaopeng/myscripts/main/ykd.js, tag=悦看点, enabled=true",
       "10 8 * * * https://raw.githubusercontent.com/YaphetS0903/JStest/main/ttdz.js, tag=图图点赞, enabled=true",
       "0 6-23 * * * https://raw.githubusercontent.com/YaphetS0903/JStest/main/ysy.js, tag=萤石云, enabled=true",
