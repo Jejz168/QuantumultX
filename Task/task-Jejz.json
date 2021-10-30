@@ -13,7 +13,6 @@
       "6 7,9 * * * https://raw.githubusercontent.com/xl2101200/-/main/dt1.js, tag=读特, enabled=true",
       "10 6-23 * * * https://raw.githubusercontent.com/YaphetS0903/JStest/main/qjp.js, tag=趣键盘极速版, enabled=true",
       "5,35 8-23 * * * https://raw.githubusercontent.com/FearNoManButGod/Script/main/jrtt/jrtt.js, tag=今日头条极速版, enabled=true",
-      "*/5 */2 * * * https://raw.githubusercontent.com/hushenan/QuantumultX/main/Cookie/10srd.js, tag=10s阅读, enabled=true",
       "*/5 * * * * https://raw.githubusercontent.com/laoguilin/JS-/main/chyu/chyu.js, tag=成语极速版, enabled=true",
       "6 0-23 * * * https://raw.githubusercontent.com/xl2101200/-/main/yyd.js, tag=云阅读, enabled=true",
       "0,20,35 5-23 * * * https://raw.githubusercontent.com/hushenan/QuantumultX/main/Cookie/fhxz.js, tag=富豪小镇, enabled=true",
