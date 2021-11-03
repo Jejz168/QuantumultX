@@ -2,6 +2,7 @@
   "name": "Jejz 自用 task ",
   "description": " TG频道:https://t.me/Qx_jejz ",
     "task":[
+      "1 8 * * * https://gitee.com/rcfan1/js/raw/master/stuo.js, tag=商拓, enabled=true",
       "9 8,16 * * * https://gitee.com/tom210120/tom/raw/master/JDYL/jdyl.js, tag=JETTA捷达, enabled=true",
       "0 9,15 * * * https://raw.githubusercontent.com/YaphetS0903/JStest/main/flg.js, tag=返利购, enabled=true",
       "10 6-23 * * * https://raw.githubusercontent.com/YaphetS0903/JStest/main/zfxs.js, tag=追疯小说, enabled=true",
