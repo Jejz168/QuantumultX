@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/hushenan/QuantumultX/main/Jejz.conf   懒人�
  <div align=center>
 <img src="https://raw.githubusercontent.com/hushenan/Picture/main/1.gif" width="370" height="370">
 </div>
-###访问量
+访问量
 
 
 ![](http://profile-counter.glitch.me/hushenan/count.svg)
