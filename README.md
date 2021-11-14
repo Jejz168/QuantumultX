@@ -1,6 +1,7 @@
- <div align=center>
 # 自用
-# 懒人配置
+ <div align=center>
+
+懒人配置
 https://raw.githubusercontent.com/hushenan/QuantumultX/main/Jejz.conf 
  </div>
  <div align=center>
