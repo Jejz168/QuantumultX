@@ -10,4 +10,4 @@
 
 # 访问量
 
-![](http://profile-counter.glitch.me/Jejz168-QuantumultX/count.svg)QuantumultX
+![](http://profile-counter.glitch.me/Jejz168-QuantumultX/count.svg)
