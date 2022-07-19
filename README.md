@@ -6,7 +6,7 @@
 </div>
 <div align=center>
  
-[👆懒人配置无去广告](https://raw.githubusercontent.com/Jejz168/QuantumultX/main/Jejz_mini.conf)
+[👆懒人配置无去广告](https://raw.githubusercontent.com/Jejz168/QuantumultX/main/Jejz_Mini.conf)
  
 </div>
 <div align=center>
