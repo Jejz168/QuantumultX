@@ -1,4 +1,4 @@
-# 自用 https://t.me/Jejz_168
+# 自用  [群组](https://t.me/Jejz_168)
 <div align=center>
 
 [👆懒人配置带去广告](https://raw.githubusercontent.com/Jejz168/QuantumultX/main/Jejz.conf)
